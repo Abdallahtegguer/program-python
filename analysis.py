@@ -6,7 +6,7 @@ from sqlalchemy.exc import SQLAlchemyError
 from bokeh.plotting import figure, show, output_file
 from bokeh.layouts import column
 import logging
-
+#made by abdallah tegguer
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 
